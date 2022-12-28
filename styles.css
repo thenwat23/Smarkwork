@@ -1,0 +1,86 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+body {
+background image: url(/storage/emulated/0/Pictures/1671271355549.jpg);
+background: cover;
+font-family: sans-serif;
+background-position: center;
+}
+.menu-bar {
+background: rgb(0,100,0);
+text-align: center;
+}
+.menu-bar ul {
+display: inline-flex;
+list-style: none;
+color: white;
+}
+.menu-bar ul li {
+width: 120px;
+margin: 15px;
+padding: 15px;
+}
+.menu-bar ul li a {
+text-decoration: none;
+color: white;
+}
+.active, .menu-bar ul li:hover {
+background: yellow;
+border-radius: 4px;
+}
+.header {
+margin-top: 10px;
+}
+.header.h1 {
+font-family: cursive;
+font-size: 52px;
+margin-botton: 60px;
+text-align: center;
+}
+
+.main {
+display: flex;
+
+
+}
+.main h2 {
+color: green;
+text-align: center;
+}
+
+.main h2 ul {
+display: auto;
+list-style: none;
+color: green;
+}
+.main h2 ul li {
+margin: 15px;
+padding: 15px;
+}
+.main h2 ul li h3 {
+position: center;
+font-size: 50px;
+font-family: Time new romans; 
+}
+.main h2 ul li h3 src {
+image-position: center;
+width: 40px;
+breadth: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
